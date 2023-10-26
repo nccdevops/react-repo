@@ -1,0 +1,234 @@
+.nav-wrapper {
+    background-color: #32558F;
+}
+
+.brand-logo {
+    color: black;
+}
+
+.btn {
+    background-color: #32558F;
+}
+
+.search {
+    background-color: #32558F
+}
+
+.drop {
+    color: #32558F;
+}
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:focus:not([readonly]),
+input[type=password]:focus:not([readonly]),
+input[type=email]:focus:not([readonly]),
+input[type=url]:focus:not([readonly]),
+input[type=time]:focus:not([readonly]),
+input[type=date]:focus:not([readonly]),
+input[type=datetime]:focus:not([readonly]),
+input[type=datetime-local]:focus:not([readonly]),
+input[type=tel]:focus:not([readonly]),
+input[type=number]:focus:not([readonly]),
+input[type=search]:focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #32558F;
+  box-shadow: 0 1px 0 0 #32558F;
+}
+
+.input-field
+.prefix.active {
+  color: #32558F;
+}
+
+input:not([type]):focus:not([readonly]) + label,
+input[type=text]:focus:not([readonly]) + label,
+input[type=password]:focus:not([readonly]) + label,
+input[type=email]:focus:not([readonly]) + label,
+input[type=url]:focus:not([readonly]) + label,
+input[type=time]:focus:not([readonly]) + label,
+input[type=date]:focus:not([readonly]) + label,
+input[type=datetime]:focus:not([readonly]) + label,
+input[type=datetime-local]:focus:not([readonly]) + label,
+input[type=tel]:focus:not([readonly]) + label,
+input[type=number]:focus:not([readonly]) + label,
+input[type=search]:focus:not([readonly]) + label,
+textarea.materialize-textarea:focus:not([readonly]) + label {
+  color: #32558F;
+}
+
+.card {
+  background-color: #32558F;
+  width:304px;
+}
+
+.card2 {
+  background-color: ;
+  width:304px;
+  height: 160px;
+}
+
+.card-action {
+    width:304px;
+    height: 1px;
+}
+
+.btn .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #32558F;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+
+.btn:focus, .btn-large:focus {
+    background-color: #32558F;
+}
+
+button:focus {
+    outline: none;
+    background-color: #32558F;
+}
+
+.btn:hover, .btn-large:hover {
+    background-color: #32558F;
+}
+
+.qBox{
+    box-shadow: 10px 10px 30px #333;
+}
+
+.dropdown-content li>span {
+    font-size: 16px;
+    color: #32558F;
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+}
+.add {
+    border-radius: 100%;
+    padding-top: 17px;
+    font-size: 3em;
+    height: 70px;
+    border: 0;
+}
+
+.icon-color {
+    color: #ffffff;
+}
+
+.doc-form {
+    width: 1000px;
+    box-shadow: 10px 10px 30px #333;
+    margin: 5% 12%;
+    padding: 5%
+}
+
+.pro-form {
+    padding: 20px 10px 0px 20px;
+    width: 800px;
+    box-shadow: 10px 10px 30px #333;
+    margin: 5% 20%;
+
+}
+
+.qBox1{
+    width: 350px;
+    margin-left: 400px;
+    box-shadow: 10px 10px 30px #333;
+}
+
+.tour-title {
+
+} 
+
+/*.react-user-tour-container div div {
+    background-color: rgb(236, 239, 241);
+}*/
+
+.react-user-tour-close {
+    color: black;
+    width: 0px;
+    height: 0px;
+    position: relative;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid rgb(255, 255, 255);
+    left: -15px;
+}
+/*s*/
+
+/*background-color: rgb(236, 239, 241);*/
+
+/*.btn-update {*/
+  /*padding: top right bottom left;*/
+  /*padding: 30px 1000px 40px 10px;*/
+/*}*/
+.btn-update {
+  border: none;
+  background: #32558F;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 6px;
+  width: 100px;
+  color: white;
+  margin: 20% 2%;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.2);
+}
+.btn-update:hover {
+  -webkit-transform: translateY(-3px);
+      -ms-transform: translateY(-3px);
+          transform: translateY(-3px);
+  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+input:focus::-webkit-input-placeholder, input:valid::-webkit-input-placeholder {
+  color: #32558F;
+  font-size: 14px;
+  -webkit-transform: translateY(-20px);
+          transform: translateY(-20px);
+  visibility: visible !important;
+}
+
+.profileForm {
+  padding: 30px 100px 40px 10px;
+}
+
+.modal { width: 75% !important ; height: 300% !important ; }
+
+.fa {
+    /*color: #3e2723 ;*/
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 20px !important;
+    line-height: 1;
+    font-family: FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pagination li.active a {
+    color: #fff;
+    background-color: #32558F !important;
+}
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+/*h3 { 
+   position: absolute; 
+   top: 100px; 
+   left: 0; 
+   width: 100%; 
+}*/
