@@ -50,8 +50,8 @@ The frontend was built with the [react](https://facebook.github.io/react/) and [
 ---
 
 - Clone the project repository.
-- Run git clone https://github.com/andela-cofor/Document-Management-System.git.
-- Change directory into the Document-Management-System directory.
+- Run git clone https://github.com/treezy254/Document-Management-System.git.
+- Change directory into the Intranet directory.
 - Run npm install to install the dependencies in the package.json file.
 - Use Postman or any API testing tool of your choice to access the endpoints.
 
